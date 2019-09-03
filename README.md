@@ -1,2 +1,3 @@
 # Intern-Management-App
-INTERN MANAMGENT APP ( made  for jspl)
+INTERN MANAMGENT APP 
+this read me files would be updated in future versioons of IMP
